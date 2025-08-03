@@ -1,2 +1,2 @@
-# Panda-Tips-and-Tricks-with-Project
+# Panda-Portfolio
 It consist almost all tips and tricks of Panda and Projects
